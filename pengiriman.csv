@@ -1,0 +1,9 @@
+tanggal,kota,berat_kg,ongkir,status
+2026-11-10,Jakarta,12,45000,terkirim
+2026-11-11,Bandung,8,32000,terkirim
+2026-11-12,Surabaya,20,78000,terlambat
+2026-11-13,Jakarta,15,52000,terkirim
+2026-11-14,Bandung,5,25000,terkirim
+2026-11-15,Surabaya,5,30000,terkirim
+2026-11-16,Jakarta,8,50000,terlambat
+2026-11-17,Bandung,3,20000,terlambat
